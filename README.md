@@ -13,7 +13,7 @@
 
 Many people aren't sure which bin an item goes in, so recyclables end up in landfill and trash contaminates recycling. This mobile app removes the guesswork. You pick a photo, and the app sends it to **Google Gemini's vision model**, which classifies the item. Then the app takes you to a results screen showing where it should go.
 
-🏆 **Built at a hackathon** by a team of coaches from **Urban TxT**.
+🏆 **Built at a hackathon** by a 3-person team of coaches from **Urban TxT**, June 2025. I led development and designed the UI in Figma. *This is my fork of [dustydx/TheEnvironmentalist-](https://github.com/dustydx/TheEnvironmentalist-).*
 
 ## 🎥 Demo
 
