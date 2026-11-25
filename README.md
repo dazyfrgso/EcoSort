@@ -104,6 +104,6 @@ https://github.com/user-attachments/assets/71e476c4-de9a-4b40-a718-5aad128c012f
 
 Built by coaches at **Urban TxT**:
 
-- **Li Yuan Ho** — [GitHub](https://github.com/lyuanh0) · [LinkedIn](https://www.linkedin.com/in/liyuan-ho/)
-- **Daisy Fregoso** — [GitHub](https://github.com/dazyfrgso) · [LinkedIn](https://www.linkedin.com/in/daisy-fregoso/)
-- **Randy Reyes** — [GitHub](https://github.com/dustydx) · [LinkedIn](https://www.linkedin.com/in/randyreyesbarrios/)
+- **Li Yuan Ho** — (lead UI designer & developer) [GitHub](https://github.com/lyuanh0) · [LinkedIn](https://www.linkedin.com/in/liyuan-ho/)
+- **Daisy Fregoso** (lead developer & UI design): [GitHub](https://github.com/dazyfrgso) · [LinkedIn](https://www.linkedin.com/in/daisy-fregoso/)
+- **Randy Reyes** — (product manager & project manager) [GitHub](https://github.com/dustydx) · [LinkedIn](https://www.linkedin.com/in/randyreyesbarrios/)
